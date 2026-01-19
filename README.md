@@ -1,6 +1,6 @@
 
-https://github.com/user-attachments/assets/fc98534c-4a3d-4ca6-83b1-f14758377e5d
-https://github.com/R23Yadam/c--matching-engine/actions/workflows/ci.yml/badge.svg
+![CI](https://github.com/R23Yadam/c--matching-engine/actions/workflows/ci.yml/badge.svg)
+
 
 # csharp-matching-engine
 Deterministic C# matching engine with clear module boundaries and analytics.
